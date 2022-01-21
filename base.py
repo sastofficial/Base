@@ -1,3 +1,5 @@
 text = input("Enter Text")
 aa = text.replace('aa',"0")
 ab = aa.replace('ab',"1")
+ac = ab.replace('ac',"2")
+ad = ac.replace('ad',"3")
